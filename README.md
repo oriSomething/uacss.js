@@ -38,13 +38,16 @@ Sniffing user agent on the client side for design purpose. Best using Modernizr 
 
 ##FAQ
 **Q: Why should I use user agent sniffing when feature detection makes better code?**
+
 **A:** You shouldn't use user agent sniffing instead feature detection! However, sometimes you want to create more "native look and feel" or "bring more targeted design" which can make better user exprience.
 By the way, there is a change that i'll add device sniffing in the future, but only for core devices. Not sure how much it's needed.
 
 **Q: Did you google about [.css{user:agent};](http://cssuseragent.org/)?**
+
 **A:** Sadly too late :) . He has a greate solution, but different than mine.
 
 **Q:** So what are the differences?
+
 **A:**
 1. In his solution there is no language sniffing
 2. In his solution there are no `not-classes`
@@ -55,10 +58,12 @@ By the way, there is a change that i'll add device sniffing in the future, but o
 7. His solution gives the version of the OS and browser. I haven't decided yet if I want to give in the future such a detailing. As far as I'm aware at least in the browser area, only IE versions can be relevant, so conditionals as in used by [H5BP](http://html5boilerplate.com/) might suite the task much better. Also, I'm not sure you can be too specific when you design. It is become unpractical and if you do, you might have a budget to use a better user agent sniffing way, for example, on server side, so users won't have a ton of unneeded downloaded CSS and JS.
 
 **Q: Is it future proof?**
+
 **A:** Depends on a segnificate user agent change as with IE11. But this project ment to be easy to maintain, so only updating the library file is needed.
 Another issue, is that I might remove unused browsers and operation systems. I don't think in 2013 someone need to detect Netscape Navigatore, although some analytics from 2013 has proved it's still alive! :)
 
 **Q: What is the license?**
+
 **A:** For the code, MIT.
 
 
