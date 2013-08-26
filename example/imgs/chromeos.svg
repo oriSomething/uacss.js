@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="400px" height="72px" viewBox="0.0002 0 400 72" enable-background="new 0.0002 0 400 72" xml:space="preserve">
+<path fill="#B4B4B4" d="M0.0002,36V8c0-4.3999,3.5996-8,8-8h384c4.3994,0,8,3.6001,8,8v28"/>
+<g id="icons">
+	<path fill="#DCDCDC" d="M211.0002,36l-9.3896-21.3389C200.7249,12.647,198.2004,11,196.0002,11h-177
+		c-2.2002,0-4.7256,1.647-5.6113,3.6611L4.0002,36h-4v36h400V36H211.0002z"/>
+	
+		<line fill="none" stroke="#646464" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" x1="24.0002" y1="53.5" x2="13.0002" y2="53.5"/>
+	
+		<polyline fill="none" stroke="#646464" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		17.0002,48 11.0002,53.5 17.0002,59 	"/>
+	<g>
+		<path fill="none" stroke="#646464" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M50.1965,57c-1.0371,1.793-2.9766,3-5.1963,3c-3.3135,0-6-2.6875-6-6s2.6865-6,6-6c2.2197,0,4.1582,1.2061,5.1953,2.998"/>
+		<polygon fill="#646464" points="53.0002,45 53.0002,53 46.0002,53 		"/>
+	</g>
+	<g>
+		
+			<line fill="none" stroke="#646464" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" x1="388.0002" y1="48.5" x2="377.0002" y2="48.5"/>
+		
+			<line fill="none" stroke="#646464" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" x1="388.0002" y1="53.5" x2="377.0002" y2="53.5"/>
+		
+			<line fill="none" stroke="#646464" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" x1="388.0002" y1="58.5" x2="377.0002" y2="58.5"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M365.0002,63c0,1.6504-1.3506,3-3,3h-295c-1.6504,0-3-1.3496-3-3V44c0-1.6504,1.3496-3,3-3h295
+			c1.6494,0,3,1.3496,3,3V63z"/>
+	</g>
+	<g>
+		<path fill="#FADC00" d="M355.0002,50l-1.7305-4.1543c-0.4238-1.0156-1.1152-1.0156-1.5391,0L350.0002,50"/>
+		<path fill="#FADC00" d="M350.0002,50h-5c-1.1006,0-1.3096,0.5762-0.4648,1.2803l2.9287,2.4385
+			c0.8447,0.7041,1.1816,2.1074,0.748,3.1191l-1.4248,3.3232c-0.4336,1.0107-0.0381,1.3408,0.8789,0.7334l3.3594-2.2246
+			c0.917-0.6074,2.4033-0.5869,3.3027,0.0459l3.0352,2.1338c0.8994,0.6328,1.2812,0.3223,0.8486-0.6885l-1.4248-3.3232
+			c-0.4336-1.0107-0.0967-2.415,0.748-3.1191l2.9287-2.4385C361.3088,50.5762,361.0999,50,360.0002,50h-5"/>
+	</g>
+</g>
+</svg>

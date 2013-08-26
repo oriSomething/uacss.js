@@ -1,0 +1,15 @@
+# Folders
+###################
+_trash/
+assets/
+node_modules/
+
+# Files
+###################
+.DS_Store
+Gruntfile.js
+package.json
+pyser
+ser
+server.js
+
