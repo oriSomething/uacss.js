@@ -1,7 +1,7 @@
 ##[User Agent to CSS](https://github.com/oriSomething/uacss.js)
 Sniffing user agent on the client side for design purpose. Best using Modernizr for feature detection, but because of some design and UX reasons, user agent detection is needed.
 
-[Click me for example](http://www.orisomething.com/e/uacss.js/)
+**[Click me for example](http://www.orisomething.com/e/uacss.js/)**
 
 
 ##What it does
@@ -69,4 +69,5 @@ Another issue, is that I might remove unused browsers and operation systems. I d
 
 ##Author
 Ori Livni aka @oriSomething
+
 [http://orisomething.com/](http://orisomething.com/)
