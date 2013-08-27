@@ -28,9 +28,11 @@
         OSES = {
             android      : /\bAndroid\b/,
             ios          : [
-                /\biPhone\b/,
-                /\biPad\b/,
-                /\bMobile\b.+\bSafari\b/ // just in case of new iOS device
+                // /\biPhone\b/,
+                // /\biPad\b/,
+                // /\biPod\b/,
+                /\bMobile\b.+\bSafari\b/, // the above is not needed to find iOS
+                /\blike Mac OS X\b/  // the above is not needed to find iOS
             ],
             windows      : /\bWindows\b/,
             osx          : /\bMac OS X\b/,

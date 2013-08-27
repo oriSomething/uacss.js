@@ -7,9 +7,13 @@ node_modules/
 # Files
 ###################
 .DS_Store
+.gitignore
+
 Gruntfile.js
+server.js
 package.json
+
+grunt
 pyser
 ser
-server.js
 
